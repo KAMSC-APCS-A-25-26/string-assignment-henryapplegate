@@ -5,7 +5,7 @@ public class PalindromeChecker {
         // TODO: Create a Scanner and read a full line from the user with nextLine().
         //       Keep the original input string so you can print it in the final message.
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a word: ");
+        System.out.print("Enter a word:");
         String input = sc.nextLine();
 
         // TODO: Build a lowercase version of the input for checking (case-insensitive comparison).
